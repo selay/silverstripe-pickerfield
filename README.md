@@ -8,7 +8,7 @@ This is a SS-4 compatible fork of https://github.com/thewebmen/silverstripe-pick
 
 
 ## Requirements
-* SilverStripe >= 4.1
+* SilverStripe >= 4.0
 * Andrew Short's GridFieldExtensions [ https://github.com/ajshort/silverstripe-gridfieldextensions ]
 
 ## Why?
